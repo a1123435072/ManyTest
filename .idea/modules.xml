@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ManyTest.iml" filepath="$PROJECT_DIR$/ManyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-eventbus/test-eventbus.iml" filepath="$PROJECT_DIR$/test-eventbus/test-eventbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-mvp/test-mvp.iml" filepath="$PROJECT_DIR$/test-mvp/test-mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_glide/test_glide.iml" filepath="$PROJECT_DIR$/test_glide/test_glide.iml" />
+    </modules>
+  </component>
+</project>

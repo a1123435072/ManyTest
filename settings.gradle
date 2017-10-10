@@ -1,0 +1,1 @@
+include ':app', ':test-mvp', ':test-eventbus', ':test_glide'
